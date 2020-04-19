@@ -1,4 +1,4 @@
-baseURL = "https://gallant-heisenberg-ef810e.netlify.app/"
+baseURL = "https://chris.hugo.grr.fyi/"
 languageCode = "en-us"
 title = "Grynn Kross Demo"
 theme = "kross-hugo"
